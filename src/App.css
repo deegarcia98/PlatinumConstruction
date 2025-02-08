@@ -1,0 +1,12 @@
+
+
+.header-area {
+  display: flex;
+  background-color: white;
+  color: black;
+  width: 100%;
+}
+
+.list {
+  list-style-type: none;
+}
